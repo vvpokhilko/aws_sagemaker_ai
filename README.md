@@ -1,4 +1,4 @@
-# Project: Fine-Tuning and Deploying a Hugging Face Model for Text Classification on AWS SageMaker
+# Project: Fine-Tuning and Deploying a Hugging Face 🤗 Model for Text Classification on AWS SageMaker
 ## **Project Overview**
 In this project, we fine-tuned and deployed a **DistilBERT** model from **Hugging Face** 🤗 for **news classification** using **AWS SageMaker AI**. The project involved training the model on a **custom news dataset** stored in an **S3 bucket**, conducting **exploratory data analysis (EDA) in Jupyter Lab**, and deploying the trained model as an API endpoint using **AWS Lambda and API Gateway**.
 
